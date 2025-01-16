@@ -1,0 +1,22 @@
+1. Separei as colulunas seqName, totalSubstitutions, totalDeletions, totalInsertions e alignmentScore em uma nova planilha, no mesmo arquivo. 
+
+2. Criei uma coluna denominada "S+D+I" que representa a soma das colunas totalSubstitutions, totalDeletions e totalInsertions.
+
+3. Utilizei a fórmula =SOMA(B2;C2;D2) e selecionei para que as demais linhas também tivessem o resultado da soma de suas respectivas informações.
+
+4. Selecionei a coluna "S+D+I" > Classificar e Filtrar > Classificar do maior para o menor.
+
+OBS.: ao classificar uma coluna, todas as outras também acompanham.
+
+5. Criei outra coluna denominada "distância" e calculei "S+D+I" dividido por "alignmentScore" nos nove primeiros e nove últimos, desde que a quantidade em "S+D+I" fosse diferente de zero. Assim, obtive números entre 0,3 e 0,0008.
+Esse resultado sendo lido da seguinte forma: menores distâncias representam espécies mais próximas evolutivamente e maiores distâncias, espécies mais divergentes.
+
+6. Através do passo 5, selecionei as datas e obtive um período de tempo entre março e julho.
+
+7. Criei uma coluna denominada "tempo" e coloquei os meses março e julho.
+
+8. Selecionei as colunas "distância" e "tempo" e criei o gráfico de linhas.
+
+9. Com o gráfico de linhas criado, selecionei a faixa de erros.
+
+O gráfico está salvo como gráfico.png
