@@ -19,4 +19,6 @@ OBS.: Não hove aleração da qanidade de linhas selecionadas pois as opções s
 
 4. O período de tempo foi observado de forma manual sendo a data inicial 03/03/2020 e a data final 04/10/2021 totalizando 1 ano, 7 meses e 1 dia. Levando em consideração que 1 ano tem 365 dias e o mês comercial (30 dias), temos um intervalo de 576 dias.
 
+5. Selecionei os dados e criei o gráfico. O arquivo do gráfico é estado.png
+
 OBS: hCoV-19/Brazil/un* e hCoV-19/Brazil/LM* não foram considerados por não se enquadrarem em um estado específico. Variáveis de cão e gato foram consideradas.
