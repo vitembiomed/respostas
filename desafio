@@ -1,0 +1,8 @@
+1. Acessei o site ENA (European Nucleotide Archive) (https://www.ebi.ac.uk/ena/browser/home).
+     2. Faça buscas por vírus específicos e filtre os resultados por tipo de arquivo (ex.: FASTQ).
+
+2. Busquei por viral e selecionei um dos resultados.
+
+3. Baixei o arquivo em FASTA e converi em FASTQ no site https://sequenceconversion.bugaco.com/converter/biology/sequences/embl_to_fasta.php
+                        
+4. 
